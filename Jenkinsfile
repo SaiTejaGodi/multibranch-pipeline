@@ -7,5 +7,5 @@ pipeline{
                 echo "the branch name is ${env.BRANCH_NAME}"
             }
         }
-    }
-    
+    }  
+}
